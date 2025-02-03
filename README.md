@@ -17,11 +17,16 @@ de música mais utilizados no mundo, como forma de aprendizado e aprimoramento d
 
 ## Projeto 
 
-https://maduaraujo.github.io/Portifolio/
+https://maduaraujo.github.io/Clone-Spotify/
 
 ## Layout
 
 ![Captura de tela 2025-02-03 174627](https://github.com/user-attachments/assets/c862dce0-fece-4632-ab2f-b4e89daac7e3)
+
+## Observações
+
+- O projeto tem fins educacionais, visando o aprendizado das tecnologias descritas acima.
+- O clone do Spotify não possui todas as funcionalidades da plataforma original.
 
 ## Redes Sociais
 
